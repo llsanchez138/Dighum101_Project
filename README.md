@@ -3,8 +3,8 @@
 ![manga](images/totoro.jpg)
 
 
-
-[Go to: Individual Project](##An-Analysis-of-Genre-in-Anime)
+*Go to:*
+[Individual Abstract](##An-Analysis-of-Genre-in-Anime)
 
 ---
 
