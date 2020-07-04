@@ -108,5 +108,3 @@ Going in, I thought the genres would appear at a different frequency seperately 
   <img src= images/totoro.jpg/>
 </p>
 
-![manga]()
-
