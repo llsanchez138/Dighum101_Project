@@ -5,7 +5,7 @@
 
 *Go to:*
 
-[Individual Abstract](##An-Analysis-of-Genre-in-Anime)
+[Individual Abstract](#id)
 
 ---
 
@@ -39,6 +39,7 @@ Our group worked well together, splitting up the readings, taking notes and info
 
 ## Individual Project Abstract: 
 ## An Analysis of Genre in Anime
+<a id="id"></a>
 
 ### Intro
 Japanese animation, anime, are often characterized by its vibrant characters, distinct graphics, and outlandish themes. The themes of these, sometimes, unconventional and quirky pieces, place them into a number of genre. Like many forms of media, for example US movies, tv shows, books, etc., anime has prevalent genre crossing, meaning that titles often fall into more than one genre.
