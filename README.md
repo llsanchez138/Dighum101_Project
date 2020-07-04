@@ -8,7 +8,7 @@
 
 ---
 
-## Group Project Abstract: Distant and Close Reading
+# Group Project Abstract: Distant and Close Reading
 
 ### Intro
 ***Distant Reading*** is a form of literary analysis performed in a computer program by aggregating and analyzing text; the program identifies literary genres and envisions plots by mining through each word and phrase. ***Close reading*** is done with first hand reading and analysis of text, which has led to great insights and advancements in literature from unique styles and themes derived from texts.
@@ -36,7 +36,7 @@ Our group worked well together, splitting up the readings, taking notes and info
 
 --- 
 
-## Individual Project Abstract: An Analysis of Genre in Anime
+# Individual Project Abstract: An Analysis of Genre in Anime
 
 ### Intro
 Japanese animation, anime, are often characterized by its vibrant characters, distinct graphics, and outlandish themes. The themes of these, sometimes, unconventional and quirky pieces, place them into a number of genre. Like many forms of media, for example US movies, tv shows, books, etc., anime has prevalent genre crossing, meaning that titles often fall into more than one genre.
