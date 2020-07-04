@@ -1,20 +1,21 @@
-# DIGHUM101-2020
-DIGHUM101 Summer 2020 Git Repository 
+# DIGHUM101 - Summer 2020 
 
 ![manga](images/totoro.jpg)
+
+[Group Project](##Group-Project-Abstract:-Distant-and-Close-Reading)
+[Individual Project](##Individual-Project-Abstract:-An-Analysis-of-Genre-in-Anime)
 ---
 
-## Group Project Abstract
+## Group Project Abstract: Distant and Close Reading
 
 ### Intro
 ***Distant Reading*** is a form of literary analysis performed in a computer program by aggregating and analyzing text; the program identifies literary genres and envisions plots by mining through each word and phrase. ***Close reading*** is done with first hand reading and analysis of text, which has led to great insights and advancements in literature from unique styles and themes derived from texts.
 
 ### Research Question
-Distant Reading is a relatively new term that may cause many to ask exactly what it is and why it's important. My group and I worked collaboratively, researching several articles which provide a brief overview, to answer our questions: 
+Distant Reading is a relatively new term that may cause many to ask exactly what it is and why it's important. Based on the readings on distant learning and the digital humanities, the concepts, as well as methods for testing Distant Reading are further explored. My group and I worked collaboratively, researching several articles which provide a brief overview, to answer our questions: 
 * **What is this *new* concept?** 
 * **How does it compare with the method of Close Reading?** 
 * **What can we learn from it?**
-Based on the readings on distant learning and the digital humanities, the concepts, as well as methods for testing Distant Reading are further explored. 
 
 ### Methods/Materials
 Machine learning is used to analyze text and identify genres and styles. Distant reading is also tested by using it to categorize and formulate topics on a corpus of ekphrasis poems - which is recognized for its figurative references of visual arts and metaphors, words that differ from their literal meaning and manner of speech. 
@@ -33,10 +34,10 @@ Our group worked well together, splitting up the readings, taking notes and info
 
 --- 
 
-## Individual Project Abstract
+## Individual Project Abstract: An Analysis of Genre in Anime
 
 ### Intro
-
+Japanese animation, anime, are often characterized by its vibrant characters, distinct graphics, and outlandish themes. The themes of these, sometimes, unconventional and quirky pieces, place them into a number of genre. Like many forms of media, for example US movies, tv shows, books, etc., anime has prevalent genre crossing, meaning that titles often fall into more than one genre.
 
 ### Research Questions
 <ol>
@@ -77,5 +78,5 @@ Going in, I thought the genres would appear at a different frequency seperately 
 * I would be interested in seeing if a viewers gender has an influence on the ratings? Who rates titles more often?
 * Are more seasoned members more permissive when ranking? Or does news of top anime travels - lesser known stay unknown, because not many good reviews come out?
 
- 
+ [Back to Top](#DIGHUM101---Summer-2020)
 
