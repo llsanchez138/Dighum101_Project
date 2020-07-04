@@ -2,7 +2,7 @@
 
 ![manga](images/totoro.jpg)
 
-[Group Project](#Group-Project-Abstract:-Distant-and-Close-Reading)
+[Group Project](#group-project-abstract:-distant-and-close-reading)
 
 [Individual Project](#Individual-Project-Abstract:-An-Analysis-of-Genre-in-Anime)
 
