@@ -50,6 +50,7 @@ Japanese animation, anime, are often characterized by its vibrant characters, di
 <li>What is the leading anime genre?</li>
 <li>Are ratings dependent on genre?</li>
 </ol>
+
 ### Materials
 I will use the MyAnimeList dataset that has been aquired through kaggle. Predominently sourced from MyAnimeList.net
 The dataset includes over 12,000 data and consists of: anime-id, title(name), genre, type, # of episodes, rating, and members with the anime in their list. 
