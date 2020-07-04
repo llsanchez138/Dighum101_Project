@@ -2,8 +2,10 @@
 
 ![manga](images/totoro.jpg)
 
-[Group Project](##Group-Project-Abstract:-Distant-and-Close-Reading)
-[Individual Project](##Individual-Project-Abstract:-An-Analysis-of-Genre-in-Anime)
+[Group Project](##-Group-Project-Abstract:-Distant-and-Close-Reading)
+
+[Individual Project](##-Individual-Project-Abstract:-An-Analysis-of-Genre-in-Anime)
+
 ---
 
 ## Group Project Abstract: Distant and Close Reading
@@ -50,6 +52,7 @@ Japanese animation, anime, are often characterized by its vibrant characters, di
 I will use the MyAnimeList dataset that has been aquired through kaggle. Predominently sourced from MyAnimeList.net
 The dataset includes over 12,000 data and consists of: anime-id, title(name), genre, type, # of episodes, rating, and members with the anime in their list. 
 The members may or may not have rated the title in their list.
+
 [Kaggle](https://www.kaggle.com/CooperUnion/anime-recommendations-database)
 
 ### Methods & Techniques include the following:
