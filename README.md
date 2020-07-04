@@ -102,10 +102,10 @@ Going in, I thought the genres would appear at a different frequency seperately 
 * I would be interested in seeing if a viewers gender has an influence on the ratings? Who rates titles more often?
 * Are more seasoned members more permissive when ranking? Or does news of top anime travels - lesser known stay unknown, because not many good reviews come out?
 
- [Back to Top](#DIGHUM101---Summer-2020)
 
 
 <p align="center">
   <img src= images/totoro.jpg/>
 </p>
 
+ [Back to Top](#DIGHUM101---Summer-2020)
