@@ -1,13 +1,20 @@
 # DIGHUM101 - Summer 2020 
+This is a repository for UC Berkeley's **Practicing the Digital Humanities** course
+
+I would like to give a special thanks to Professor Evan Muzzal for all his help and instruction over the summer and my group members!
 
 ![manga](images/totoro.jpg)
 
 
 *Go to:*
 
-[Individual Abstract](#id)
+[Group Abstract](#id)
+
+[Individual Abstract](#id2)
 
 ---
+
+<a id="id"></a>
 
 ## Group Project Abstract: Distant and Close Reading
 
@@ -36,7 +43,7 @@ By examining the issues, trade offs, and benefits of Distant reading, the readin
 Our group worked well together, splitting up the readings, taking notes and informing each other of key points. We reached our own conclusions on the materials read while we learned about the topic, methods used, and revealed the findings. After which, we created a presentation to present our topic and findings to our peers, engaging them to share their own views. Even though we are from different backgrounds, we were able to easily come together, each of us combining our efforts to the project. It was a truly great experience! 
 
 --- 
-<a id="id"></a>
+<a id="id2"></a>
 ## Individual Project Abstract: *An Analysis of Genre in Anime*
 
 
