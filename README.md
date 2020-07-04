@@ -4,9 +4,12 @@ This is a repository for UC Berkeley's **DIGHUM101: Practicing the Digital Human
 *I would like to give a special thanks to Professor Evan Muzzal for all his help and instruction over the summer and my group members!*
 
 
+
+
 <p align="center">
   <img src="https://cpb-us-w2.wpmucdn.com/blogs.carleton.edu/dist/2/77/files/2018/09/DigitalHumanities_Meme1-2b20b2i.jpg" />
 </p>
+
 
 
 
