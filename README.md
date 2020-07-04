@@ -3,7 +3,9 @@ This is a repository for UC Berkeley's **DIGHUM101: Practicing the Digital Human
 
 *I would like to give a special thanks to Professor Evan Muzzal for all his help and instruction over the summer and my group members!*
 
-![manga](images/totoro.jpg)
+
+
+![Patrick](/image/https://cpb-us-w2.wpmucdn.com/blogs.carleton.edu/dist/2/77/files/2018/09/DigitalHumanities_Meme1-2b20b2i.jpg#center)
 
 
 *Go to:*
@@ -92,4 +94,7 @@ Going in, I thought the genres would appear at a different frequency seperately 
 * Are more seasoned members more permissive when ranking? Or does news of top anime travels - lesser known stay unknown, because not many good reviews come out?
 
  [Back to Top](#DIGHUM101---Summer-2020)
+
+
+![manga](images/totoro.jpg)
 
