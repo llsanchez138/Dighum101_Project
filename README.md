@@ -1,7 +1,7 @@
 # DIGHUM101 - Summer 2020 
-This is a repository for UC Berkeley's **Practicing the Digital Humanities** course
+This is a repository for UC Berkeley's **DIGHUM101: Practicing the Digital Humanities** course
 
-I would like to give a special thanks to Professor Evan Muzzal for all his help and instruction over the summer and my group members!
+*I would like to give a special thanks to Professor Evan Muzzal for all his help and instruction over the summer and my group members!*
 
 ![manga](images/totoro.jpg)
 
