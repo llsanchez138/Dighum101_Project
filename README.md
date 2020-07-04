@@ -4,6 +4,7 @@
 
 
 *Go to:*
+
 [Individual Abstract](##An-Analysis-of-Genre-in-Anime)
 
 ---
