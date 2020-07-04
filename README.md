@@ -82,8 +82,11 @@ The members may or may not have rated the title in their list.
 Modules used will include: matplotlib, numpy, pandas, string, Dataframe, pyplot
 
 ### Results
-* The original dataset showed inconsistant counts on genres due to multiple values in column rows. The original dataset showed that the genre with the highest frequency was ***Hentai***. However, further analysis showed that ***comedy*** and ***action*** had the highest counts.
-* Genre with the lowest occurances of genre **and** members, have much lower average ratings compared their counterparts.
+* The original dataset showed inconsistant counts on genres due to multiple values in column rows.
+
+*The original dataset showed that the genre with the highest frequency was **Hentai**. However, further analysis showed that **comedy** and **action** had the highest counts.
+
+* Genre with the lowest occurances of genre *and* members, have much lower average ratings compared their counterparts.
 * **Top 5 genres, based on members:** *Action, Comedy, Drama, Adventure, Hentai*
 * **Top 5 genres based on count:** *Action, Comedy, Drama, Adventure, Hentai*
 * **Top 5 genre based on avg rating:** *Josei, Mystery, Drama, Action*
@@ -101,5 +104,9 @@ Going in, I thought the genres would appear at a different frequency seperately 
  [Back to Top](#DIGHUM101---Summer-2020)
 
 
-![manga](images/totoro.jpg)
+<p align="center">
+  <img src= images/totoro.jpg/>
+</p>
+
+![manga]()
 
